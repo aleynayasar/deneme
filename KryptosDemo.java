@@ -40,7 +40,7 @@ public class KryptosDemo {
 	@Test
 	public void loginApp() {
 		calcession.findElementByName("Token").click();
-		calcession.findElementByName("Token Parola").sendKeys("A.yasar60");
+		calcession.findElementByName("Token Parola").sendKeys("a*******0");
 		calcession.findElementByName("Giriş").click();
 		
 	}
